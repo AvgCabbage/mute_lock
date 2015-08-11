@@ -9,6 +9,7 @@ Since upgrading to Windows 10 the Task Scheduler Event trigger has worked withou
 I've added two solutions to handle unmuting the system volume and set the volume to the provided level.
 
 **MuteToggle.ahk** - Which can be converted to an exe with Ahk2exe, making it usable with Windows Task Scheduler.
+
 **MuteToggle.cpp** - Can be compiled and used with Windows Task Manager.  This one requires the desired volume as an argument.
 
 Both MuteToggle.ahk and MuteToggle.cpp will check the current mute state of the system.
