@@ -1,5 +1,5 @@
 # mute_lock
-AutoHotkey script written use scroll lock to lock the pc.
+AutoHotkey script written to use scroll lock to lock the pc.
 
 With AHK script, when Scroll Lock is pressed the workstation will mute and lock.  This also toggles the scroll lock state off so the led (or whatever indicator) isn't active.
 
